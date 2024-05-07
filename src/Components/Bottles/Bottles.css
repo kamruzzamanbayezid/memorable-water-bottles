@@ -1,0 +1,13 @@
+.bottles-container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+}
+
+.purchasedBottle-container{ 
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      margin-bottom: 20px;
+}
